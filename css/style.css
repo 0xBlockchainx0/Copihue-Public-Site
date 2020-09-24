@@ -3294,7 +3294,6 @@ body {
 .howitworks-area {
   background-color: #f8f9fe;
   padding-top: 119px;
-  padding-bottom: 120px;
   position: relative;
   z-index: 1; }
   .howitworks-area .sec-heading .sec__title {
@@ -3512,7 +3511,6 @@ body {
  ====================================================*/
 .howitworks-area2 {
   position: relative;
-  padding-bottom: 120px;
   background-color: transparent;
   z-index: 1; }
   .howitworks-area2 .hiw-content {
